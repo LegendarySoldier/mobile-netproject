@@ -1,0 +1,62 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(to bottom, #FFF75D, #FFC11F, #FE650D, #F33C04, #DA1F05, #A10100);
+}
+
+.header_div{
+
+    color:black ;
+    border: 3p solid black;
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+#camera{
+    border:  2px solid ;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px red;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.Capture_btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    column-width: 70px;
+    border-radius: 10px;
+}
+
+.Result_btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    column-width: 70px;
+    border-radius: 10px;
+}
+#object_name{
+    background-color: #F33C04;
+    border-radius: 10px;
+    padding: 10px;
+    border: 3px solid black;
+}
